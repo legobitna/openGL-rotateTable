@@ -1,0 +1,23 @@
+﻿Build started 2016-08-23 오후 6:05:13.
+     1>Project "C:\Users\user\Desktop\빛나의 과제함\RotateTable (2)\RotateTable\RotateTable.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt rotateTable.cpp
+         rotateTable.cpp
+     1>c:\users\user\desktop\빛나의 과제함\rotatetable (2)\rotatetable\rotatetable.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\user\desktop\빛나의 과제함\rotatetable (2)\rotatetable\rotatetable.cpp(465): warning C4552: '/' : operator has no effect; expected operator with side-effect
+     1>c:\users\user\desktop\빛나의 과제함\rotatetable (2)\rotatetable\rotatetable.cpp(466): warning C4552: '/' : operator has no effect; expected operator with side-effect
+     1>c:\users\user\desktop\빛나의 과제함\rotatetable (2)\rotatetable\rotatetable.cpp(467): warning C4552: '/' : operator has no effect; expected operator with side-effect
+     1>c:\users\user\desktop\빛나의 과제함\rotatetable (2)\rotatetable\rotatetable.cpp(587): error C2872: 'count' : ambiguous symbol
+                 could be 'c:\users\user\desktop\빛나의 과제함\rotatetable (2)\rotatetable\rotatetable.cpp(12) : int count'
+                 or       'c:\program files (x86)\microsoft visual studio 12.0\vc\include\xutility(3086) : iterator_traits<_Iter>::difference_type std::count(_InIt,_InIt,const _Ty &)'
+     1>c:\users\user\desktop\빛나의 과제함\rotatetable (2)\rotatetable\rotatetable.cpp(588): error C2872: 'count' : ambiguous symbol
+                 could be 'c:\users\user\desktop\빛나의 과제함\rotatetable (2)\rotatetable\rotatetable.cpp(12) : int count'
+                 or       'c:\program files (x86)\microsoft visual studio 12.0\vc\include\xutility(3086) : iterator_traits<_Iter>::difference_type std::count(_InIt,_InIt,const _Ty &)'
+     1>c:\users\user\desktop\빛나의 과제함\rotatetable (2)\rotatetable\rotatetable.cpp(589): error C2872: 'count' : ambiguous symbol
+                 could be 'c:\users\user\desktop\빛나의 과제함\rotatetable (2)\rotatetable\rotatetable.cpp(12) : int count'
+                 or       'c:\program files (x86)\microsoft visual studio 12.0\vc\include\xutility(3086) : iterator_traits<_Iter>::difference_type std::count(_InIt,_InIt,const _Ty &)'
+     1>Done Building Project "C:\Users\user\Desktop\빛나의 과제함\RotateTable (2)\RotateTable\RotateTable.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.08

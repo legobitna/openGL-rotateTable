@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RotateTable", "RotateTable\RotateTable.vcxproj", "{C20217C7-1284-4680-AA13-B654AD1FC254}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C20217C7-1284-4680-AA13-B654AD1FC254}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C20217C7-1284-4680-AA13-B654AD1FC254}.Debug|Win32.Build.0 = Debug|Win32
+		{C20217C7-1284-4680-AA13-B654AD1FC254}.Release|Win32.ActiveCfg = Release|Win32
+		{C20217C7-1284-4680-AA13-B654AD1FC254}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
